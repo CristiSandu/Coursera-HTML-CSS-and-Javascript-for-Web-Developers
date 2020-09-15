@@ -10,7 +10,6 @@
         }
 
         p {
-          
             text-align: center;
             color: black;
             padding:initial;
@@ -38,6 +37,7 @@
 
         #p4{
             border: 1px solid black;
+            
             background-color: tomato;
             width: 30%;
             height: 15%;
@@ -47,8 +47,6 @@
         }
 
         #p2{
-           
-           
             font-family: Helvetica;     
             float: right;
             padding: 10px;
@@ -57,7 +55,7 @@
      
         
         div#container{
-            border: 5px solid white;
+            border: 10px solid white;
             position: relative;
             background-color: aqua;
             width: fill;
