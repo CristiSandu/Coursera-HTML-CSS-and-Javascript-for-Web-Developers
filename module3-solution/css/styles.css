@@ -1,0 +1,76 @@
+body {
+  font-size: 16px;
+  color: white;
+  background-color: brown;
+  font-family: "Oxygen", sans-serif;
+}
+
+#header-nav {
+  background-color: peru;
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-brand {
+  color: black;
+  font-size: xx-large;
+  font-style: unset;
+  font-weight: bold;
+}
+
+h1 {
+  font-size: xx-large;
+}
+
+.navbar-brand {
+  padding: 0, auto, -15px, auto;
+}
+
+#nav-list {
+  margin-top: 10px;
+}
+
+#nav-list a {
+  color: black;
+  text-align: center;
+  background-color: red;
+}
+
+#nav-list a:hover {
+  background: chocolate;
+}
+
+#nav-list a span {
+  font-size: 1.8em;
+}
+
+#titlepage {
+  color: black;
+  font-size: xx-large;
+  font-style: unset;
+  font-weight: bold;
+}
+
+
+
+ .menu-item-description{
+    background-color: peru;
+    margin-right: 25px;
+    margin-left: 25px;
+    
+   
+ }
+
+ .menu-item-details {
+    background-color: peru;
+    color: black;
+    margin-top: -10px;
+ }
+
+ h3 {
+    color: black;
+    font-size: x-large;
+    font-style: unset;
+    font-weight: bold;
+  }  
+}
